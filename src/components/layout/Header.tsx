@@ -4,7 +4,7 @@ import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { ConnectWalletButton } from '@/features/wallet/ui/ConnectWalletButton';
-import { NetworkStatusBadge } from '@/components/NetworkStatusBadge';
+import { NetworkStatusBadge } from '@/components/NetworkStatusBadge'; 
 import { NotificationCenter } from '@/features/notifications/NotificationCenter';
 import {
   Shield,
