@@ -1,6 +1,6 @@
 # 🐦 VendorPulse Twitter/X Launch Announcement
 
-> **Official social launch post for Stellar ecosystem visibility and community engagement.**
+> **Official social launch post for Stellar ecosystem visibility and community engagement.** 
 
 ---
 
