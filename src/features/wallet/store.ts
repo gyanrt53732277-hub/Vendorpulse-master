@@ -8,7 +8,7 @@ interface WalletActions {
   setNetwork: (network: string | null) => void;
   setBalance: (balance: string) => void;
   setConnecting: (isConnecting: boolean) => void;
-  setError: (error: string | null) => void;
+  setError: (error: string | null) => void; 
   setModalOpen: (isOpen: boolean) => void;
   disconnect: () => void;
 }
