@@ -1,5 +1,5 @@
 # ⚡ VendorPulse — The Trust Layer for B2B Supply Chains
-
+ 
 > **Decentralized Vendor Performance Management Platform built on Stellar Soroban Smart Contracts.**
 
 [![CI Pipeline](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/actions)
