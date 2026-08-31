@@ -1,6 +1,6 @@
 # 📐 VendorPulse Technical Specification & Protocol Architecture
 
-> **Complete system architecture, Soroban XDR types, RPC bindings, data structures, and protocol design for Stellar Mainnet.**
+> **Complete system architecture, Soroban XDR types, RPC bindings, data structures, and protocol design for Stellar Mainnet.** 
 
 ---
 
