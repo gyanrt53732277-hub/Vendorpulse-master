@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import { useEventStore } from './store';
-import { ContractEvent } from './types';
+import { ContractEvent } from './types'; 
 import {
   Clock,
   UserPlus,
