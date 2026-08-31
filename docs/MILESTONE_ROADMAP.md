@@ -1,4 +1,4 @@
-# VendorPulse — Milestone Roadmap
+# VendorPulse — Milestone Roadmap 
 
 > Structured milestone breakdown for the Stellar Startup Track submission. Each milestone is mapped to deliverables, success metrics, and estimated timelines.
 
