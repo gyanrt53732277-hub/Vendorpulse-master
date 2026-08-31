@@ -3,7 +3,7 @@ export interface PasskeyCredential {
   publicKey: string;
   algorithm: 'ES256' | 'Ed25519';
   deviceName: string;
-  enrolledAt: number;
+  enrolledAt: number; 
 }
 
 export interface SmartWalletPolicy {
