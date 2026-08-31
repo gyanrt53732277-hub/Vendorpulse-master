@@ -1,6 +1,6 @@
 # VendorPulse — Startup Executive Summary
 
-> **Decentralized Vendor Performance Management for B2B Supply Chains, Built on Stellar Soroban.**
+> **Decentralized Vendor Performance Management for B2B Supply Chains, Built on Stellar Soroban.** 
 
 ---
 
