@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { Zap, ShieldCheck, CheckCircle2, ArrowRight, Activity, Sparkles } from 'lucide-react';
+import { Zap, ShieldCheck, CheckCircle2, ArrowRight, Activity, Sparkles } from 'lucide-react'; 
 import { feeSponsorshipService } from './service';
 import { SponsoredTransactionResult } from './types';
 
