@@ -1,7 +1,7 @@
 export interface FeeSponsorshipConfig {
   sponsorAddress: string;
   maxBaseFeeInStroops: number;
-  isEnabled: boolean;
+  isEnabled: boolean; 
   networkPassphrase: string;
   sponsoredTxTypes: string[];
 }
