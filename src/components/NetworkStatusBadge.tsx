@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import { checkNetworkHealth, STELLAR_NETWORK } from '@/lib/stellar';
 import { Activity, ShieldCheck, AlertCircle } from 'lucide-react';
-
+ 
 export const NetworkStatusBadge: React.FC = () => {
   const [status, setStatus] = useState<{
     isHealthy: boolean;
