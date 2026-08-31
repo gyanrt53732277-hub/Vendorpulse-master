@@ -3,7 +3,7 @@ import {
   VENDOR_REGISTRY_CONTRACT_ID,
   REVIEW_SYSTEM_CONTRACT_ID,
   STELLAR_NETWORK_PASSPHRASE,
-} from '@/lib/stellar';
+} from '@/lib/stellar'; 
 import { Account, TransactionBuilder, xdr } from '@stellar/stellar-sdk';
 import { getAddress, signTransaction } from '@stellar/freighter-api';
 import { useTransactionStore } from '@/features/transactions/store';
