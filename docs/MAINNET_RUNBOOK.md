@@ -1,7 +1,7 @@
 # 🛠️ VendorPulse Stellar Mainnet Operations Runbook
 
 > **Operational runbook for contract deployment, key rotation, incident response, and storage maintenance on Stellar Mainnet.**
-
+ 
 ---
 
 ## 1. Production Deployment Procedure
