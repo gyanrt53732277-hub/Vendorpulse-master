@@ -6,7 +6,7 @@ export class MultiSigService {
   private defaultSigners: MultiSigSigner[] = [
     { address: 'GA7QYNF7SOWQ3GLR2BGMZEHXAVIRZA4KVWBDJJGTH46W45H2B2J5M4U6', weight: 1, name: 'Security Council' },
     { address: 'GBN4M5J8Z9X2L3K4T5R6V7W8P9Q0S1D2F3G4H5J6K7L8M9N0P1Q2', weight: 1, name: 'Lead Auditor' },
-    { address: 'GCD8P3K2M4N5L6J7H8G9F0D1S2A3W4E5R6T7Y8U9I0O1P2Q3R4S5', weight: 1, name: 'Procurement Governance' },
+    { address: 'GCD8P3K2M4N5L6J7H8G9F0D1S2A3W4E5R6T7Y8U9I0O1P2Q3R4S5', weight: 1, name: 'Procurement Governance' }, 
   ];
   private threshold: number = 2;
 
