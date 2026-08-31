@@ -2,7 +2,7 @@
 resolver = "2"
 members = [
     "vendor_registry",
-    "review_system",
+    "review_system", 
 ]
 
 
