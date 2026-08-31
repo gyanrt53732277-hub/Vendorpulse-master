@@ -2,7 +2,7 @@ import { create } from 'zustand';
 import { ContractEvent } from './types';
 
 interface EventStoreState {
-  events: ContractEvent[];
+  events: ContractEvent[]; 
   isStreaming: boolean;
   addEvents: (newEvents: ContractEvent[]) => void;
   setStreaming: (isStreaming: boolean) => void;
