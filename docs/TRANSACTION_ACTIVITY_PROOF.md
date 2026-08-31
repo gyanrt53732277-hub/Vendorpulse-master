@@ -1,6 +1,6 @@
 # 📊 VendorPulse Stellar Mainnet Transaction Activity Proof
 
-> **Verified Mainnet ledger sequences, transaction hashes, gas telemetry, and smart contract interaction logs.**
+> **Verified Mainnet ledger sequences, transaction hashes, gas telemetry, and smart contract interaction logs.** 
 
 ---
 
