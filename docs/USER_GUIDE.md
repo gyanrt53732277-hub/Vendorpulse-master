@@ -1,6 +1,6 @@
 # 📖 VendorPulse User Guide & Operator Manual
 
-> **Step-by-step instructions for procurement managers, suppliers, auditors, and governance signers on Stellar Mainnet.**
+> **Step-by-step instructions for procurement managers, suppliers, auditors, and governance signers on Stellar Mainnet.** 
 
 ---
 
