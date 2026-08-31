@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest';
 import {
   STELLAR_NETWORK,
   STELLAR_RPC_URL,
-  STELLAR_HORIZON_URL,
+  STELLAR_HORIZON_URL, 
   FEE_BUMP_ENABLED,
   MULTISIG_THRESHOLD,
   checkNetworkHealth,
