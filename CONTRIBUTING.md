@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to **VendorPulse** — the decentralized vendor performance management platform built on Stellar Soroban!
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 ### Prerequisites
 - **Node.js** v20+
