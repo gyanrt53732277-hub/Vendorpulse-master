@@ -1,5 +1,5 @@
 # 🛡️ VendorPulse Smart Contract Security Audit & Review Report
-
+ 
 > **Target**: Stellar Soroban Smart Contracts (`vendor_registry`, `review_system`)  
 > **Network**: Stellar Mainnet  
 > **Compiler & Toolchain**: `soroban-cli v22.0.0`, `rustc 1.80+`, `stellar-xdr`  
