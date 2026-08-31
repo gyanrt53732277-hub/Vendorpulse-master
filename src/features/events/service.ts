@@ -2,7 +2,7 @@ import { sorobanServer, VENDOR_REGISTRY_CONTRACT_ID, REVIEW_SYSTEM_CONTRACT_ID }
 import { ContractEvent } from './types';
 import { logger } from '@/lib/logger';
 
-const MOCK_EVENTS: ContractEvent[] = [
+const MOCK_EVENTS: ContractEvent[] = [ 
   {
     id: 'evt_101',
     contractId: 'CD5W2V6E3K7R5X7M9L2P4Q6R8S0T2U4V6W8X0Y2Z4A6B8C0D', 
