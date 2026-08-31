@@ -6,7 +6,7 @@ export interface WalletState {
   walletName: string | null;
   network: string | null;
   balance: string;
-  isConnected: boolean;
+  isConnected: boolean; 
   isConnecting: boolean;
   error: string | null;
   isModalOpen: boolean;
