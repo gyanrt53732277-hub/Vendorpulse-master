@@ -5,7 +5,7 @@ import { logger } from '@/lib/logger';
 const MOCK_EVENTS: ContractEvent[] = [
   {
     id: 'evt_101',
-    contractId: 'CD5W2V6E3K7R5X7M9L2P4Q6R8S0T2U4V6W8X0Y2Z4A6B8C0D',
+    contractId: 'CD5W2V6E3K7R5X7M9L2P4Q6R8S0T2U4V6W8X0Y2Z4A6B8C0D', 
     topic: ['vendor', 'register'],
     data: 'Ashish Supply Registered',
     ledger: 5289120,
