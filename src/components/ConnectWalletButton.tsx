@@ -4,7 +4,7 @@
  * Top-Level Connect Wallet Button Component
  * Integrates with @stellar/freighter-api for Stellar wallet connection & balance display.
  */
-import React from 'react';
+import React from 'react'; 
 import { Wallet, CheckCircle2, ChevronDown, LogOut, Loader2 } from 'lucide-react';
 import { useWallet } from '@/hooks/useWallet';
 
