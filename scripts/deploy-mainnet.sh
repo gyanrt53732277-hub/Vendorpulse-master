@@ -2,7 +2,7 @@
 # ═══════════════════════════════════════════════════════════════
 # VendorPulse - Deploy Contracts to Stellar Mainnet
 # ═══════════════════════════════════════════════════════════════
-#
+# 
 # Prerequisites:
 #   1. Stellar CLI installed: https://developers.stellar.org/docs/tools/developer-tools/cli/install-cli
 #   2. Funded Mainnet deployer account (requires real XLM for fees + storage deposit)
