@@ -1,6 +1,6 @@
 # 🌐 VendorPulse Community Contributions & Ecosystem Engagement
 
-> **Open-source contribution log, ecosystem partnerships, and community development activities.**
+> **Open-source contribution log, ecosystem partnerships, and community development activities.** 
 
 ---
 
