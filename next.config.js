@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   reactStrictMode: true,
-  eslint: {
+  eslint: { 
     ignoreDuringBuilds: true,
   },
   typescript: {
