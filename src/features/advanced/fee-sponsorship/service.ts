@@ -5,7 +5,7 @@ export class FeeSponsorshipService {
   private config: FeeSponsorshipConfig;
   private sponsoredHistory: SponsoredTransactionResult[] = [];
 
-  constructor(config?: Partial<FeeSponsorshipConfig>) {
+  constructor(config?: Partial<FeeSponsorshipConfig>) { 
     this.config = {
       sponsorAddress: config?.sponsorAddress || 'GBSPNSR7PULSE9VENDOR4STELLAR8GASLESS9MAINNET2026',
       maxBaseFeeInStroops: config?.maxBaseFeeInStroops || 50000,
