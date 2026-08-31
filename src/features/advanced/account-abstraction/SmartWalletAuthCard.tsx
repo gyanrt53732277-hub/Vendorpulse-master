@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { KeyRound, Fingerprint, ShieldCheck, Plus, CheckCircle2, Lock, ArrowRight, Laptop } from 'lucide-react';
 import { accountAbstractionService } from './service';
-import { PasskeyCredential, SmartWalletSession } from './types';
+import { PasskeyCredential, SmartWalletSession } from './types'; 
 
 export const SmartWalletAuthCard: React.FC = () => {
   const [credentials, setCredentials] = useState<PasskeyCredential[]>(
