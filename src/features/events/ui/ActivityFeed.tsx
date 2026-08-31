@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { useEvents } from '../hooks/useEvents';
+import { useEvents } from '../hooks/useEvents'; 
 import { useEventStore } from '../store';
 import { getExplorerUrl, truncateAddress } from '@/lib/utils';
 import { Radio, Star, UserPlus, RefreshCw, Award, Activity, ExternalLink } from 'lucide-react';
