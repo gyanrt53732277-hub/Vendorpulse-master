@@ -2,7 +2,7 @@ import { PasskeyCredential, SmartWalletPolicy, SmartWalletSession } from './type
 import { logger } from '@/lib/logger';
 
 export class AccountAbstractionService {
-  private sessions: Map<string, SmartWalletSession> = new Map();
+  private sessions: Map<string, SmartWalletSession> = new Map(); 
   private credentials: PasskeyCredential[] = [];
 
   constructor() {
