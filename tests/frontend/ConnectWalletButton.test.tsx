@@ -4,7 +4,7 @@ import { ConnectWalletButton } from '@/features/wallet/ui/ConnectWalletButton';
 import { useWalletStore } from '@/features/wallet/store';
 
 describe('ConnectWalletButton Component', () => {
-  it('renders Connect Wallet button when disconnected', () => {
+  it('renders Connect Wallet button when disconnected', () => { 
     useWalletStore.setState({ isConnected: false, address: null });
     render(<ConnectWalletButton />);
     expect(screen.getByText(/Connect Wallet/i)).toBeInTheDocument();
