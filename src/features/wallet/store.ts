@@ -1,6 +1,6 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
-import { WalletState, SupportedWallet } from './types';
+import { WalletState, SupportedWallet } from './types'; 
 
 interface WalletActions {
   setAddress: (address: string | null) => void;
