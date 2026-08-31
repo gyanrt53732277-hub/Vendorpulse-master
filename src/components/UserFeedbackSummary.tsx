@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import {
   MessageSquare,
-  Star,
+  Star, 
   Send,
   CheckCircle2,
   TrendingUp,
