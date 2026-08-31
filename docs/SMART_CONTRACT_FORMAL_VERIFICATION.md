@@ -1,7 +1,7 @@
 # 🔬 VendorPulse Smart Contract Formal Verification & Invariant Proofs
 
 > **Mathematical specifications, boundary state models, and property-based fuzz tests for Stellar Soroban smart contracts.**
-
+ 
 ---
 
 ## 1. State Space & Mathematical Model
