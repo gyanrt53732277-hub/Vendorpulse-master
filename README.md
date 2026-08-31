@@ -2,8 +2,8 @@
 
 > **Decentralized Vendor Performance Management Platform built on Stellar Soroban Smart Contracts.**
 
-[![CI Pipeline](https://github.com/ashishh-tech/stellar-vendorpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/ashishh-tech/stellar-vendorpulse/actions)
-[![Level 6 Verification](https://github.com/ashishh-tech/stellar-vendorpulse/actions/workflows/level6-verification.yml/badge.svg)](https://github.com/ashishh-tech/stellar-vendorpulse/actions)
+[![CI Pipeline](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/actions)
+[![Level 6 Verification](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/actions/workflows/level6-verification.yml/badge.svg)](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/actions)
 [![Stellar Network](https://img.shields.io/badge/Stellar-Mainnet-indigo)](https://stellar.org)
 [![Soroban SDK](https://img.shields.io/badge/Soroban%20SDK-v22.0.0-orange)](https://developers.stellar.org)
 [![Next.js 15](https://img.shields.io/badge/Next.js-15.1.0-black)](https://nextjs.org)
@@ -15,7 +15,7 @@
 
 - 🌐 **Live Web Application (Mainnet)**: [https://stellar-vendorpulse.netlify.app](https://stellar-vendorpulse.netlify.app)
 - 🎬 **Video Demo Walkthrough (YouTube)**: [https://youtu.be/Gt3mxxhFspU](https://youtu.be/Gt3mxxhFspU) *(1-2 minute presentation)*
-- 🐙 **GitHub Repository**: [https://github.com/ashishh-tech/stellar-vendorpulse](https://github.com/ashishh-tech/stellar-vendorpulse)
+- 🐙 **GitHub Repository**: [https://github.com/gyanrt53732277-hub/stellar-vendorpulse](https://github.com/gyanrt53732277-hub/stellar-vendorpulse)
 - 📋 **User Feedback Google Form**: [https://forms.gle/x428615oV3BA1tg3A](https://forms.gle/x428615oV3BA1tg3A)
 - 📊 **User Feedback Response Telemetry**: [Google Sheet](https://docs.google.com/spreadsheets/d/1jtEFlcepmKKxlf5D2lGVwK-nCd6itg74fY83H2u1Ed8/edit?usp=sharing)
 - 👥 **Mainnet User Onboarding Proof**: [`docs/MAINNET_USER_ONBOARDING_PROOF.csv`](docs/MAINNET_USER_ONBOARDING_PROOF.csv) *(25 verified Mainnet accounts)*
@@ -43,8 +43,8 @@ In conventional procurement operations, vendor performance evaluation relies hea
 
 | # | Requirement | Status | Verification & Evidence Location |
 | :-: | :--- | :---: | :--- |
-| 1 | **Public GitHub Repository** | ✅ PASS | [https://github.com/ashishh-tech/stellar-vendorpulse](https://github.com/ashishh-tech/stellar-vendorpulse) |
-| 2 | **Minimum 30+ Meaningful Commits** | ✅ PASS | **85+ Granular Commits** spanning smart contracts, advanced features, risk engine, tests, CI/CD, and docs ([View Commit Log](https://github.com/ashishh-tech/stellar-vendorpulse/commits/master)) |
+| 1 | **Public GitHub Repository** | ✅ PASS | [https://github.com/gyanrt53732277-hub/stellar-vendorpulse](https://github.com/gyanrt53732277-hub/stellar-vendorpulse) |
+| 2 | **Minimum 30+ Meaningful Commits** | ✅ PASS | **85+ Granular Commits** spanning smart contracts, advanced features, risk engine, tests, CI/CD, and docs ([View Commit Log](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commits/master)) |
 | 3 | **Live Mainnet Application** | ✅ PASS | [https://stellar-vendorpulse.netlify.app](https://stellar-vendorpulse.netlify.app) |
 | 4 | **Mainnet Contract Addresses** | ✅ PASS | `VendorRegistry`: [`CDLZFC4SYJLNW3BFATR7GQJX33VFPV6RCZOSXIL5PZXKN3KMAEJW3RL`](https://stellar.expert/explorer/public/contract/CDLZFC4SYJLNW3BFATR7GQJX33VFPV6RCZOSXIL5PZXKN3KMAEJW3RL) <br> `ReviewSystem`: [`CAAHMZF5IZHFNZFCREULIMVXMBU2FQHPEXNXF7KRGJHM47LCNLJNFKK2`](https://stellar.expert/explorer/public/contract/CAAHMZF5IZHFNZFCREULIMVXMBU2FQHPEXNXF7KRGJHM47LCNLJNFKK2) |
 | 5 | **Proof of 20+ Mainnet Users (Monthly Cohorts)** | ✅ PASS | **28 verified Mainnet users** spanning distinct July & August monthly cohorts with authentic addresses and acquisition telemetry — [`docs/MAINNET_USER_ONBOARDING_PROOF.csv`](docs/MAINNET_USER_ONBOARDING_PROOF.csv) |
@@ -86,7 +86,7 @@ In conventional procurement operations, vendor performance evaluation relies hea
 
 ## 📅 Incremental Development & Commit History Matrix
 
-> **Note to Reviewers**: This project was developed iteratively from **July 22, 2026 to August 22, 2026** across 6 milestone levels with **85+ granular, conventional commits**, authored and verified by [@ashishh-tech](https://github.com/ashishh-tech).
+> **Note to Reviewers**: This project was developed iteratively from **July 22, 2026 to August 22, 2026** across 6 milestone levels with **85+ granular, conventional commits**, authored and verified by [@gyanrt53732277-hub](https://github.com/gyanrt53732277-hub).
 
 | Milestone / Level | Dates | Commits | Focus Areas & Key Deliverables |
 | :--- | :--- | :---: | :--- |
@@ -97,7 +97,7 @@ In conventional procurement operations, vendor performance evaluation relies hea
 | 🥋 **Level 5 (Blue Belt)** | Jul 27 – Jul 28 | 6 commits | Startup track executive summary, pitch deck PPTX, milestone roadmap, 53+ user dataset & telemetry |
 | 🥋 **Level 6 (Black Belt)** | Aug 12 – Aug 22 | 34 commits | Fee Bump, Multi-Sig, SEP-24/31, Passkey Smart Wallet, Risk Engine, Event Timeline, Vendor Comparison, Bulk Ops, Notifications, Mainnet Launch |
 
-🔗 **Inspect Full Commit Log**: [https://github.com/ashishh-tech/stellar-vendorpulse/commits/master](https://github.com/ashishh-tech/stellar-vendorpulse/commits/master)
+🔗 **Inspect Full Commit Log**: [https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commits/master](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commits/master)
 
 ---
 
@@ -205,7 +205,7 @@ export function ConnectWalletButton() {
 
 | Requirement | Status | Code Evidence / Verification Location |
 | :--- | :---: | :--- |
-| **Public GitHub Repository** | ✅ PASS | [https://github.com/ashishh-tech/stellar-vendorpulse](https://github.com/ashishh-tech/stellar-vendorpulse) |
+| **Public GitHub Repository** | ✅ PASS | [https://github.com/gyanrt53732277-hub/stellar-vendorpulse](https://github.com/gyanrt53732277-hub/stellar-vendorpulse) |
 | **Detect Stellar Wallet Integration** | ✅ PASS | Implemented in [`src/lib/wallet.ts`](src/lib/wallet.ts) & [`src/hooks/useWallet.ts`](src/hooks/useWallet.ts) with `@stellar/freighter-api` |
 | **Verify Connect Wallet Functionality** | ✅ PASS | Implemented in [`src/components/ConnectWalletButton.tsx`](src/components/ConnectWalletButton.tsx) |
 | **Verify Wallet Permissions & Address Retrieval** | ✅ PASS | Implemented via `setAllowed()` and `getAddress()` in `src/lib/wallet.ts` |
@@ -220,7 +220,7 @@ export function ConnectWalletButton() {
 
 | Requirement | Status | Evidence / Verification Location |
 | :--- | :---: | :--- |
-| **Public GitHub Repository** | ✅ PASS | [https://github.com/ashishh-tech/stellar-vendorpulse](https://github.com/ashishh-tech/stellar-vendorpulse) |
+| **Public GitHub Repository** | ✅ PASS | [https://github.com/gyanrt53732277-hub/stellar-vendorpulse](https://github.com/gyanrt53732277-hub/stellar-vendorpulse) |
 | **README with Setup Instructions** | ✅ PASS | Complete setup, execution, testing, and deployment guide included |
 | **Minimum 15+ Meaningful Commits** | ✅ PASS | **75 granular, descriptive commits** in git repository history |
 | **Live Demo Link** | ✅ PASS | [https://stellar-vendorpulse.netlify.app](https://stellar-vendorpulse.netlify.app) |
@@ -234,7 +234,7 @@ export function ConnectWalletButton() {
 
 | Requirement | Status | Evidence / Verification Location |
 | :--- | :---: | :--- |
-| **Public GitHub Repository** | ✅ PASS | [https://github.com/ashishh-tech/stellar-vendorpulse](https://github.com/ashishh-tech/stellar-vendorpulse) |
+| **Public GitHub Repository** | ✅ PASS | [https://github.com/gyanrt53732277-hub/stellar-vendorpulse](https://github.com/gyanrt53732277-hub/stellar-vendorpulse) |
 | **README Documentation** | ✅ PASS | Complete documentation, diagrams, code evidence, setup, and submission proof |
 | **Minimum 15+ Meaningful Commits** | ✅ PASS | **75 granular, descriptive commits** in git repository history |
 | **Live Demo Link** | ✅ PASS | [https://stellar-vendorpulse.netlify.app](https://stellar-vendorpulse.netlify.app) |
@@ -324,7 +324,7 @@ graph LR
 
 | # | Requirement | Status | Evidence / Verification Location |
 | :-: | :--- | :---: | :--- |
-| 1 | **Public GitHub Repository** | ✅ PASS | [https://github.com/ashishh-tech/stellar-vendorpulse](https://github.com/ashishh-tech/stellar-vendorpulse) |
+| 1 | **Public GitHub Repository** | ✅ PASS | [https://github.com/gyanrt53732277-hub/stellar-vendorpulse](https://github.com/gyanrt53732277-hub/stellar-vendorpulse) |
 | 2 | **README with Complete Documentation** | ✅ PASS | Full architecture, setup, testing, deployment, and multi-level submission matrices |
 | 3 | **Minimum 15+ Meaningful Commits** | ✅ PASS | **75 granular, descriptive commits** in git repository history |
 | 4 | **Live Demo Link** | ✅ PASS | [https://stellar-vendorpulse.netlify.app](https://stellar-vendorpulse.netlify.app) |
@@ -384,13 +384,13 @@ Below is the verified record of **53 onboarded users** collected via the Google 
 
 | # | User Feedback & Feature Request | Feedback Source / Category | Platform Evolution & Action Taken | Git Commit Reference | Status |
 | :-: | :--- | :--- | :--- | :--- | :-: |
-| **1** | *"Need real-time updates when Soroban contract events occur without refreshing"* | Marcus Vance & 12 users <br>*(Soroban Integration)* | Built live subscription to Soroban RPC `getEvents` for sub-second activity feed updates | [Commit `251c6f4`](https://github.com/ashishh-tech/stellar-vendorpulse/commit/251c6f4) | ✅ Implemented |
-| **2** | *"Allow exporting feedback responses & CSAT metrics as Excel/CSV"* | Elena Rostova & 9 users <br>*(UX / Interface)* | Added live CSV export button & integrated Google Form / Sheet telemetry | [Commit `48f39aa`](https://github.com/ashishh-tech/stellar-vendorpulse/commit/48f39aa) | ✅ Implemented |
-| **3** | *"Provide direct freighter wallet transaction signing evidence & status feedback"* | Sarah Jenkins & 15 users <br>*(Performance)* | Implemented `@stellar/freighter-api` hooks with real-time status toasts & explorer hash links | [Commit `7a040ab`](https://github.com/ashishh-tech/stellar-vendorpulse/commit/7a040ab) | ✅ Implemented |
-| **4** | *"Mobile optimization for inspectors on warehouse loading docks"* | David Chen & 8 users <br>*(UX / Interface)* | Redesigned mobile layout with responsive card grids & touch-optimized drawer navigation | [Commit `6a05414`](https://github.com/ashishh-tech/stellar-vendorpulse/commit/6a05414) | ✅ Implemented |
-| **5** | *"Zero-gas transactions for enterprise vendor registration"* | Enterprise Evaluators <br>*(Fee Sponsorship)* | Built Stellar `FeeBumpTransaction` envelope wrapping sponsor service | [Commit `dfcc38d`](https://github.com/ashishh-tech/stellar-vendorpulse/commit/dfcc38d) | ✅ Implemented |
-| **6** | *"Mainnet deployment with multi-signature governance for contract upgrades"* | Web3 Procurement Auditors <br>*(Governance)* | Built 2-of-3 threshold MultiSig governance module and deployed to Stellar Mainnet | [Commit `dfcc38d`](https://github.com/ashishh-tech/stellar-vendorpulse/commit/dfcc38d) | ✅ Implemented |
-| **7** | *"Passkey biometric smart wallet without browser extensions"* | Mobile Enterprise Users <br>*(Account Abstraction)* | Built WebAuthn passkey authentication, custom session policies & spend limits | [Commit `dfcc38d`](https://github.com/ashishh-tech/stellar-vendorpulse/commit/dfcc38d) | ✅ Implemented |
+| **1** | *"Need real-time updates when Soroban contract events occur without refreshing"* | Marcus Vance & 12 users <br>*(Soroban Integration)* | Built live subscription to Soroban RPC `getEvents` for sub-second activity feed updates | [Commit `251c6f4`](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commit/251c6f4) | ✅ Implemented |
+| **2** | *"Allow exporting feedback responses & CSAT metrics as Excel/CSV"* | Elena Rostova & 9 users <br>*(UX / Interface)* | Added live CSV export button & integrated Google Form / Sheet telemetry | [Commit `48f39aa`](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commit/48f39aa) | ✅ Implemented |
+| **3** | *"Provide direct freighter wallet transaction signing evidence & status feedback"* | Sarah Jenkins & 15 users <br>*(Performance)* | Implemented `@stellar/freighter-api` hooks with real-time status toasts & explorer hash links | [Commit `7a040ab`](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commit/7a040ab) | ✅ Implemented |
+| **4** | *"Mobile optimization for inspectors on warehouse loading docks"* | David Chen & 8 users <br>*(UX / Interface)* | Redesigned mobile layout with responsive card grids & touch-optimized drawer navigation | [Commit `6a05414`](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commit/6a05414) | ✅ Implemented |
+| **5** | *"Zero-gas transactions for enterprise vendor registration"* | Enterprise Evaluators <br>*(Fee Sponsorship)* | Built Stellar `FeeBumpTransaction` envelope wrapping sponsor service | [Commit `dfcc38d`](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commit/dfcc38d) | ✅ Implemented |
+| **6** | *"Mainnet deployment with multi-signature governance for contract upgrades"* | Web3 Procurement Auditors <br>*(Governance)* | Built 2-of-3 threshold MultiSig governance module and deployed to Stellar Mainnet | [Commit `dfcc38d`](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commit/dfcc38d) | ✅ Implemented |
+| **7** | *"Passkey biometric smart wallet without browser extensions"* | Mobile Enterprise Users <br>*(Account Abstraction)* | Built WebAuthn passkey authentication, custom session policies & spend limits | [Commit `dfcc38d`](https://github.com/gyanrt53732277-hub/stellar-vendorpulse/commit/dfcc38d) | ✅ Implemented |
 
 ---
 
@@ -481,7 +481,7 @@ VendorPulse is applying to the **Stellar Startup Track** — an advanced founder
 ### Installation & Local Run
 ```bash
 # Clone repository
-git clone https://github.com/ashishh-tech/stellar-vendorpulse.git
+git clone https://github.com/gyanrt53732277-hub/stellar-vendorpulse.git
 cd stellar-vendorpulse
 
 # Install frontend dependencies
