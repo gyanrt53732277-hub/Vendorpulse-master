@@ -1,4 +1,4 @@
-# ⚡ VendorPulse — The Trust Layer for B2B Supply Chains
+# ⚡ VendorPulse — The Trust Layer for B2B Supply Chains 
  
 > **Decentralized Vendor Performance Management Platform built on Stellar Soroban Smart Contracts.**
 
