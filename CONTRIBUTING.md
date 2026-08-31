@@ -1,4 +1,4 @@
-# Contributing to VendorPulse
+# Contributing to VendorPulse 
 
 Thank you for your interest in contributing to **VendorPulse** — the decentralized vendor performance management platform built on Stellar Soroban!
 
